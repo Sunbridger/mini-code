@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<!-- <view class="container">
+  <view class="section">
+    
+    <form bindsubmit="bindFormSubmit">
+      <textarea maxlength="1000" value="{{msg}}" style="min-height: 300px" auto-height="true" placeholder="写下你的留言吧..." name="textarea"/>
+      <button type="primary" form-type="submit">提交</button>
+    </form>
+    <view class="uploader">
+      <navigator url="../msg" open-type="navigate" class="uploader-text">
+        <text>留言条</text>
+      </navigator>
+    </view>
+  </view>
+</view> -->
+<p>ppp</p>
+<span>span</span>
+<div>div</div>

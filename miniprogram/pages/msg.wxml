@@ -1,0 +1,7 @@
+<view wx:for="{{msgs}}" wx:key="_id" class="msg-box">
+  <image class="avatar-box" style="width: 30px; height: 30px; background-color: #eeeeee;" mode="scaleToFill" src="{{item.avatar}}"></image>
+  <text>{{item.msg}}</text>
+  <view>
+    <text class="time-box">{{item.time}}</text>
+  </view>
+</view>

@@ -1,0 +1,13 @@
+/* miniprogram/pages/msg.wxss */
+.msg-box {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.avatar-box {
+  vertical-align: -9px;
+  margin-right: 5px;
+}
+.time-box {
+  color: #ccc;
+  margin-left: 23rpx;
+}
